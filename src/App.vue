@@ -42,6 +42,7 @@
         currentTodo: ''
       };
     },
+    directives: { focus },
     methods: {
       addTodo() {
         if (this.currentTodo !== "") {
