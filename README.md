@@ -3,13 +3,13 @@ The evergreen todo list app, for such simple and popular tasks I decided to use 
 
 
 ## Screenshots
-![screenshot](https://alabugrara.com/img/toVue-poster.png)
+![screenshot](https://alabugrara.com/img/toVue-list-poster.png)
 
 
 ## Features
-add todos
-Mark todos as done
-Delete todos
+- add todos
+- Mark todos as done
+- Delete todos
 
 
 ## Tech/framework used
