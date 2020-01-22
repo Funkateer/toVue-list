@@ -7,9 +7,14 @@ The evergreen todo list app, for such simple and popular tasks I decided to use 
 
 
 ## Features
-- add todos
+- Add todos
 - Mark todos as done
+- Edit existing todo
 - Delete todos
+
+
+## Live Demo
+To see the app in action, go to (https://funkateer.github.io/toVue-list/)
 
 
 ## Tech/framework used
@@ -44,12 +49,13 @@ npm run test
 npm run lint
 ```
 
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Contribute
-1. Fork it (<https://github.com/Funkateer/toVue.git>)
+1. Fork it (<https://github.com/Funkateer/toVue-list.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -63,11 +69,11 @@ Distributed under the MIT ©  License.
 ## Authors
 * **Ala Eddin Abugrara** - alaeddin.abugrara@gmail.com
 
-Project Link: https://github.com/Funkateer/toVue
+Project Link: https://github.com/Funkateer/toVue-list
 
 
 ## Contact
-Alaeddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
+Alà Eddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
 
 
 <!-- Markdown links & imgs  -->
