@@ -3,7 +3,7 @@ The evergreen todo list app, for such simple and popular tasks I decided to use 
 
 
 ## Screenshots
-![screenshot](https://alabugrara.com/img/toVue-list-poster.png)
+![screenshot](https://alabugrara.com/img/poster-toVue-list.png)
 
 
 ## Features
